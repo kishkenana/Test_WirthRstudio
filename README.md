@@ -1,2 +1,3 @@
-# Test_WirthRstudio
-My first repo to test working with Rstudio
+# Test_WithRstudio
+My first repo to test how  work with Rstudio
+Following an online tutorial
